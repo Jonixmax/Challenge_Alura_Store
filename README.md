@@ -1,33 +1,39 @@
-# 📊 Desafío Data Science LATAM - Alura Store
+# 📊 Challenge Alura LATAM - Alura Store
 
-Bienvenido al repositorio del **Primer Challenge de Data Science LATAM** de [Alura Latam](https://www.aluracursos.com/). En este proyecto analizamos el desempeño de cuatro tiendas ficticias de comercio electrónico para ayudar al dueño, el Sr. Juan, a tomar decisiones estratégicas basadas en datos.
+Bienvenido al repositorio del **Challenge de Data Science LATAM** de Alura, desarrollado como parte de mi participación en el programa formativo de ciencia de datos. En este proyecto analizamos el desempeño de cuatro tiendas ficticias de comercio electrónico para ayudar al Sr. Juan a tomar decisiones estratégicas basadas en datos reales.
 
 ---
 
 ## 🧠 Objetivo
 
-El desafío consiste en analizar datos de ventas, productos, calificaciones y logística de las cuatro tiendas con el fin de **determinar cuál tienda debería vender el Sr. Juan para invertir en un nuevo negocio**.
+El objetivo del análisis es evaluar ingresos, calificaciones, ventas por categoría, costos logísticos y otros KPIs de las tiendas, con el fin de determinar **cuál tienda debería vender el Sr. Juan** para invertir en un nuevo negocio.
 
 ---
 
+## 📁 Contenido del repositorio
+
+- `AluraStoreLatam.ipynb` → Notebook principal con todo el análisis exploratorio y visualizaciones.
+- Archivos `.csv` → Datos de ventas de las tiendas 1 a 4.
+
+---
 
 ## 🔍 Análisis realizado
 
-- Cálculo de ingresos por tienda 💰  
-- Comparación de ventas por categoría 📦  
+- Ingresos por tienda 💰  
+- Ventas por categoría 📦  
 - Calificación promedio de clientes ⭐  
 - Productos más y menos vendidos 🏆📉  
-- Costos promedio de envío 🚚  
-- Visualizaciones gráficas con `matplotlib` y `seaborn` 📊  
+- Costos de envío promedio 🚚  
+- Visualizaciones con `matplotlib` y `seaborn` 📊  
 
 ---
 
 ## 🧾 Principales hallazgos
 
-- **Tienda 4** tiene el menor ingreso total.
-- **Tienda 3** destaca en satisfacción del cliente.
-- “Muebles” y “Electrónicos” son las categorías más vendidas.
-- Algunos productos tienen baja rotación, lo que puede afectar inventario.
+- **Tienda 4** genera los ingresos más bajos.
+- **Tienda 3** tiene la mayor satisfacción del cliente.
+- Las categorías “Muebles” y “Electrónicos” lideran en ventas.
+- Algunos productos tienen baja rotación que podrían optimizarse.
 
 ---
 
@@ -40,5 +46,11 @@ El desafío consiste en analizar datos de ventas, productos, calificaciones y lo
 - Jupyter Notebook  
 
 ---
+
+## ▶️ Cómo ejecutar el notebook
+
+1. Clona este repositorio:  
+   ```bash
+   git clone https://github.com/Jonixmax/Challenge_Alura_Store.git
 
 

@@ -10,13 +10,6 @@ El objetivo del análisis es evaluar ingresos, calificaciones, ventas por catego
 
 ---
 
-## 📁 Contenido del repositorio
-
-- `AluraStoreLatam.ipynb` → Notebook principal con todo el análisis exploratorio y visualizaciones.
-- Archivos `.csv` → Datos de ventas de las tiendas 1 a 4.
-
----
-
 ## 🔍 Análisis realizado
 
 - Ingresos por tienda 💰  

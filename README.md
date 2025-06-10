@@ -10,12 +10,6 @@ El desafío consiste en analizar datos de ventas, productos, calificaciones y lo
 
 ---
 
-## 📁 Contenido del repositorio
-
-- `AluraStoreLatam.ipynb` → Notebook principal con el análisis completo.
-- Archivos `.csv` → Datos de ventas de las tiendas 1 a 4.
-
----
 
 ## 🔍 Análisis realizado
 
